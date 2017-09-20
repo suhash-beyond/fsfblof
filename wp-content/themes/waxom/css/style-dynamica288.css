@@ -1,0 +1,402 @@
+
+
+a,
+a:focus,
+.vntd-accent-color {
+	color:				#223447;
+}
+
+
+/* Accent Text Colors */
+
+	#navigation .mobile-nav-button:hover,
+	footer.footer a:hover,
+	section.page_header .page_header_inner .p_head_right a.p-head-button:hover,
+	body.dark-layout section.page_header .page_header_inner .p_head_right a.p-head-button:hover,
+	#blog .details .post-info a.post-item:hover,
+	.dark-nav .nav-menu ul.dropdown-menu li a:hover,
+	.dark-nav .nav-menu ul.dropdown-menu li.active a,
+	a.text-button:hover,
+	.blog .details a.post-item:hover,
+	span.post-item a:hover,
+	.nav-menu ul li a:hover,
+	.nav-menu ul li.active a,
+	#page-content .color-accent,
+	a.read-more-post:hover,
+	.address-soft a.mail-text:hover,
+	.bar.widget_rss a.rsswidget:hover,
+	.twitter-feed-icon:hover,
+	.menu-item a:hover,
+	#navigation-mobile a:hover,
+	.nav-extra-item-text i,
+	#site-navigation .nav-extra-item:hover i,
+	#navigation_sticky .nav-extra-item:hover i,
+	#topbar a:hover,
+	#topbar .menu li:hover a,
+	.nav-bottom-search .search-button:hover,
+	.nav-bottom .nav li a:hover,
+	#navigation .nav-menu ul.dropdown-menu li a:hover,
+	#navigation .nav-menu ul.dropdown-menu li a:hover:after,
+	#page-content ul.products li.product h3:hover,
+	#page-content .accent-hover,
+	.vntd-blog .read-more-post:hover,
+	#page-content h1 a:hover,
+	#page-content h2 a:hover,
+	#page-content h3 a:hover,
+	#page-content h4 a:hover,
+	#page-content h5 a:hover,
+	.vntd-meta-section a:hover,
+	#footer-widgets .twitter-content p > a:first-child,
+	.bar ul li a:hover:before, .bar ul li > a:hover,
+	#footer-widgets .twitter-content p > a:hover,
+	.vntd-icon-box.icon-box-hover:hover .icon-box-link-button,
+	.vntd-icon-box.icon-box-hover:hover .icon-box-title,
+	#page-content .team-member-icons a:hover,
+	.vntd-list-accent i,
+	.accent-hover:hover,
+	.breadcrumbs a:hover,
+	.btn-style-stroke.btn-accent,
+	.icon-box-big-centered-outline.icon-box-hover:hover .icon-box-icon,
+	.pie-style1 .vc_pie_chart_value,
+	.vntd-carousel .testimonial-item:hover .testimonial-author h5,
+	.vntd-testimonials-grid .testimonial-item:hover h5,
+	.vntd-carousel .testimonial-item:hover .testimonial-author span,
+	.vntd-testimonials-grid .testimonial-item:hover span,
+	.nav-cart:hover i,
+	.portfolio.portfolio-bottom .portfolio-overlay-title:hover,
+	.portfolio-overlay-title,
+	#page-content .progress-bar-style4 .progress-bar-value .vc_label_units,
+	#page-content .icon-box-small-left:hover .icon-box-icon,
+	#page-content .icon-box-big-centered-icon.icon-box-hover:hover .icon-box-icon,
+	.dropcap-style1,
+	.vntd-meta-section span span,
+	.comment-mini-heading li.comment-name,
+	#page-content .widget-tabbed-nav li.active-tab,
+	.pricing-box-color-accent.vntd-pricing-box h4,
+	.portfolio-overlay-icons span:hover,
+	.vntd-blog .read-more-post,
+	.carousel-post-overlay .fa:hover,
+	.counter-color-accent,
+	#page-content .icon-box-medium-right-triangle:hover .icon-box-icon,
+	#page-content .icon-box-medium-left-triangle:hover .icon-box-icon,
+	#page-content .vc_active .vc_tta-title-text,
+	#page-content .vntd-team.team-style-hover .team-member-data .team-member-icons a:hover,
+	#page-content .price,
+	#reviews #comments .meta strong,
+	.owl-nav > div:hover:before,
+	.portfolio-love-button a,
+	.blog-style-boxed.vntd-blog .item:hover .blog-item-inner h5.blog-post-title a,
+	h3.portfolio-outer-title a,
+	.video-lightbox a.video-link:hover i,
+	.video-lightbox-length,
+	#page-content .progress-bar-style2 .vc_label_units,
+	#page-content .progress-bar-style1 .vc_label_units,
+	.testimonial-content p,
+	.vntd-blog-carousel.blog-style-minimal .item:hover h5.blog-post-title a,
+	#breadcrumbs li,
+	.vntd-cta h1 .heading-highlight,
+	.post-media-container a:after:hover,
+	#vntd-woocommerce-filters li ul li a:hover,
+	#woo-nav-cart.nav-cart-active i,
+	.nav-menu ul li a:hover,
+	#site-navigation ul.dropdown-menu li a:hover,
+	.vntd-icon-box.icon-box-hover:hover .icon-box-link-button, .vntd-icon-box.icon-box-hover:hover .icon-box-title,
+	#page-content .icon-box-small-left:hover .icon-box-icon,
+	.vntd-icon-box.icon-box-hover:hover .icon-box-link-button,
+	.vntd-icon-box.icon-box-hover:hover .icon-box-title {
+		color: #223447;
+	}
+	
+	#site-navigation ul.dropdown-menu li a:hover,
+	#site-navigation li a:hover,
+	.current_page_item > a,
+	.current-menu-ancestor > a,
+	.current-menu-parent > a,
+	.current-menu-item > a,
+	#footer .vntd-social-icons a:hover,
+	.vntd-team .item:hover h6.member-position,
+	.btn-style-stroke.btn-hover-accent:hover,
+	.product-overlay-icon:hover,
+	.owl-nav > div:hover,
+	.btn-style-stroke.btn-white:hover,
+	.navigation-mobile ul li a:hover,
+	.item:hover .portfolio-outer-cats,
+	.counter-color-accent .counter-title h6 {
+		color: #223447 !important;
+	}
+	
+	.portfolio-filters li.cbp-filter-item-active,
+	.portfolio-filters li:hover {
+		color: #223447;
+	}
+
+/* Accent Background Colors */
+
+	/* ::selection, */
+	.colored-bg,
+	a.page-content-button:hover,
+	.feature-box:hover a.box-icon,
+	.vntd-portfolio-carousel .works .item .featured-ball:hover,
+	.vntd-cta-button:hover,
+	.vntd-pricing-box.p-table.active a.p-button,
+	.vntd-pricing-box.p-table a.p-button:hover,
+	a.active-colored,
+	.blocked,
+	.modal .modal-inner a.close:hover,
+	.portfolio a.portfolio-view-more:hover,
+	body.dark-layout .portfolio a.portfolio-view-more:hover,
+	#team .team .team-boxes .item .member-details .details a.member-detail-button:hover,
+	.bar .tagcloud a:hover,
+	ul.pagination li.active a,
+	ul.pagination li.active a:hover,
+	body.dark-layout ul.pagination li.active a,
+	body.dark-layout ul.pagination li.active a:hover,
+	.contact form button.contact-form-button:hover,
+	.btn-accent,
+	.vntd-list-bg i,
+	.vntd-accent-bgcolor,
+	#navigation .nav-menu > ul > li.current_page_item > a:before,
+	.pagination .current,
+	.contact .wpcf7-submit:hover,	
+	.blog-extra-meta .extra-meta-comments,
+	.vntd-bg-color-accent,
+	.vntd-icon-box.icon-box-hover:hover .icon-box-icon,
+	.vntd-pricing-box.active h3,
+	.vntd-pricing-box.active .pricing-box-button a.btn,
+	.vntd-contact-form.contact form .wpcf7-submit:hover,
+	.portfolio-title_categories_excerpt .portfolio-overlay-excerpt:after, 
+	.portfolio-bottom .portfolio-overlay-excerpt:after,
+	#vntd-woocommerce-layout-switcher li.active-item,
+	#vntd-woocommerce-layout-switcher li:hover,
+	.vntd-pagination li span.current,
+	#page-content .woocommerce-pagination li span.current,
+	.btn-hover-accent:hover,
+	#page-content .vc_progress-bar-color-accent .vc_bar,
+	.vntd-dropcap.dropcap-style2,
+	.vntd-pagination li > a:hover, #page-content .woocommerce-pagination li > a:hover,
+	.portfolio-style .item-inner,
+	.blog-post-thumbnail,
+	#page-content .vc_active .vc_tta-controls-icon,
+	.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+	.woocommerce #review_form #respond .form-submit input,
+	.wpb_text_column ul li:before,
+	.icon-box-big-centered-icon .icon-box-content:after,
+	#page-content .vntd-blog .item:hover .extra-meta-item,
+	#page-content .vntd-blog .item:hover .extra-meta-item .vntd-day,
+	#page-content .blog-index .post:hover .extra-meta-item,
+	#page-content .blog-index .post:hover .extra-meta-item .vntd-day,
+	.bg-accent,
+	.woo-cart-count {
+		background-color: #223447;
+	}
+	
+	.btn-dark:hover,
+	.btn-black:hover,
+	.vntd-accent-bgcolor-hover:hover,
+	#page-content .tp-bullets.simplebullets .bullet.selected,
+	#page-content ul.products li.product .add_to_cart_button,
+	.bar .tagcloud a:hover,
+	.vc_single_bar.accent .vc_bar,
+	#page-content .accent-hover-bg:hover,
+	#page-content .ui-tabs-nav .ui-tabs-active a,
+	.vntd-icon-box.icon-box-hover:hover .icon-box-icon {
+		background-color: #223447 !important;
+	}
+
+/* Border Colors */
+
+	.colored-border,
+	.feature-box:hover a.box-icon:after,
+	a.text-button:hover,
+	#team .team .team-boxes .item .member-details .details a.member-detail-button:hover,
+	.bar .tagcloud a:hover,
+	ul.pagination li.active a,
+	ul.pagination li.active a:hover,
+	.bs-callout-north,
+	.vntd-icon-box.box:hover .left-icon a,
+	.btn-accent,
+	.pagination .current,
+	.contact .wpcf7-submit:hover,
+	.btn-dark:hover,
+	.btn-black:hover,
+	blockquote,
+	#topbar .menu li:hover a,
+	#nav-bottom.nav-bottom-style-bottom2 .nav > li:hover > a,
+	#nav-bottom.nav-bottom-style-bottom2 .nav > li.current-menu-item > a,
+	.nav-menu ul.dropdown-menu li a:hover,
+	#page-content .tp-bullets.simplebullets .bullet.selected,
+	.portfolio-filters li.cbp-filter-item-active,
+	.vntd-testimonials-tabs .testimonial-item.active-item .testimonial-avatar img,
+	.icon-box-medium-left.icon-box-hover:hover .icon-box-icon,
+	.icon-box-medium-right.icon-box-hover:hover .icon-box-icon,
+	.vntd-team.team-style-circle .item:hover .team-member-image img,
+	#page-content .team-member-icons a:hover,
+	.blockquote-content,
+	.vntd-accordion.accordion-style3 .wpb_accordion_header:hover,
+	.vntd-accordion.accordion-style3 .wpb_accordion_header.ui-accordion-header-active,
+	.icon-box-big-centered-outline.icon-box-hover:hover .icon-box-icon,
+	.icon-box-big-left.icon-box-hover:hover .icon-box-content,
+	.icon-box-with-link.icon-box-boxed-outline:hover,
+	.icon-box-with-link .icon-box-inner:hover,
+	.icon-box-boxed-solid.icon-box-with-link:hover,
+	.icon-box-with-link.icon-box-boxed-outline:hover,
+	.icon-box-boxed-outline a:hover .icon-box-icon,
+	.vntd-carousel .testimonial-item:hover .testimonial-content,
+	.vntd-testimonials-grid .testimonial-item:hover .testimonial-content,
+	.icon-box-medium-left-light.icon-box-hover:hover .icon-box-icon,
+	.icon-box-medium-right-light.icon-box-hover:hover .icon-box-icon,
+	#vntd-woocommerce-layout-switcher li.active-item,
+	#vntd-woocommerce-layout-switcher li:hover,
+	#sidebar .tagcloud a:hover,
+	.counter-color-accent .counter-value,
+	.vntd-icon-box:hover .icon-box-triangle,
+	.vntd-icon-box:hover .icon-box-triangle:after,
+	.vntd-icon-box:hover .icon-box-triangle:before,
+	.owl-nav > div:hover,
+	.pulsed,
+	.nav-menu > ul > li.current_page_item > a, .nav-menu > ul > li.current-menu-parent > a,
+	.nav-menu > ul > li.current-menu-ancestor > a,
+	.accent-hover-border,
+	.portfolio-love-button a,
+	.video-lightbox a.video-link:hover i,
+	.owl-dot.active,
+	#page-content .swiper-pagination-bullet.swiper-pagination-bullet-active,
+	#page-content .vc_images_carousel .vc_carousel-indicators li.vc_active {
+		border-color:#223447;
+	}
+	
+	.nav-menu > ul > li.current_page_item > a, .nav-menu > ul > li.current-menu-parent > a, .nav-menu > ul > li.current-menu-ancestor > a {
+		border-color:#223447;
+	}
+	
+	#footer .vntd-social-icons a:hover,
+	#page-content .vntd-tabs.tabs-style4 .wpb_tab,
+	.btn-style-stroke.btn-hover-accent:hover,
+	#page-content .btn-black:hover {
+		border-color:#223447 !important;
+	}
+
+	.tabs .nav-tabs li.active a,
+	.nav-menu ul.dropdown-menu,
+	.nav-cart-products,
+	#page-content .widget-tabbed-nav li.active-tab,
+	.vntd-pricing-box.pricing-box-color-accent h3:after,
+	#page-content .vc_tta-style-classic .vc_tta-tab.vc_active {
+		border-top-color:#223447;
+	}
+	
+	.vntd-tour .nav-tabs li.active a {
+		border-left-color:#223447;
+	}
+	
+	
+	
+		.spinner,
+	.cbp-popup-singlePage .cbp-popup-loadingBox {
+		border-top-color: #223447;
+		border-left-color: #223447;
+		border-right-color: #223447;
+		border-bottom-color: transparent;
+	}
+	
+
+
+/* Accent Color 3 (Default: Green) */
+
+#page-content .color-accent3 {
+	color: #223447;
+}
+
+#page-content .btn-accent3,
+#page-content .bg-accent3,
+.item:hover .item-outer,
+.blog-style-boxed.vntd-blog.blog-hover-style-accent .item:hover .blog-item-inner {
+	background-color: #223447;
+}
+
+.item:hover .item-outer:before {
+	border-bottom-color: #223447;
+}
+
+#page-content .btn-accent3 {
+	border-color: #223447;
+}
+
+
+
+/* Accent Color 2 */
+
+#page-content .color-accent2,
+#page-content .btn-style-stroke.btn-white:hover,
+#page-content .btn-hover-white:hover,
+#page-content .btn-hover-accent2:hover,
+#page-content .btn-hover-default:hover,
+a:hover,
+#page-content .vntd-meta-section a:hover,
+.counter-number {
+	color: #223447 !important;
+}
+
+#page-content .btn-accent2,
+#page-content .bg-accent2,
+#page-content .btn-hover-accent2:hover,
+.blog-style-boxed.vntd-blog .item:hover .vntd-month,
+.portfolio-filters-boxed .portfolio-filters li:hover,	
+.portfolio-filters-boxed .portfolio-filters li.cbp-filter-item-active,
+.vntd-counter:after,
+.woocommerce #page-content .button,
+.vntd-contact-form.contact form .wpcf7-submit,
+#woo-nav-cart p.buttons .button,
+#page-content .product .button {
+	background-color: #223447;
+}
+
+#page-content .btn-hover-accent2:hover,
+.portfolio-filters-boxed .portfolio-filters li:hover,	
+.portfolio-filters-boxed .portfolio-filters li.cbp-filter-item-active {
+	border-color: #223447 !important;
+}
+
+#page-content .btn-accent2 {
+	border-color: #223447;
+}
+
+
+.nav-menu ul li a { color:#43515b; }body,.icon-description,.vntd-special-heading h6,#sidebar .bar ul li:before { color:#223447; } h1,h2,h3,h4,h5,h6,#page-content .progress-bar-style2 .progress-bar-value, #page-content .progress-bar-style1 .progress-bar-value,.vntd-blog h5.blog-post-title a,h2.blog-post-title a,.icon-box-big-centered-icon .icon-box-icon { color:#363636; }.icon-box-boxed-solid .icon-box-icon { background-color:; }#page-content .extra-meta-item .vntd-day, #page-content .extra-meta-item { background-color:#363636; }#footer-widgets { background-color:#191919 !important; }
+	
+/* Font Sizes */
+
+body { font-size:15px; } .nav-menu ul li a { font-size:17px; } h1,h2,h3,h4,h5,h6,#navigation,.nav-menu,.font-primary,.w-option-set,#page-content .wpb_content_element .wpb_tabs_nav li,.vntd-pricing-box .properties { font-family:"Source Sans Pro", Helvetica, Arial, sans-serif; } body,h2.description,.vntd-cta-style-centered h1,.home-fixed-text,.font-secondary,.wpcf7-not-valid-tip,.testimonials h1,input,textarea { font-family:"Source Sans Pro", Helvetica, Arial, sans-serif; } h1,h2,h3,h4,h5,h6,.font-primary,.w-option-set,#page-content .wpb_content_element .wpb_tabs_nav li,.vntd-pricing-box .properties { font-weight:400; } ul.nav { font-weight:400; } .footer-widget-col-1 { margin-top: -27px; }#header{margin: 0 auto;}
+h1,h2,h3,h4,h5,h6,.nav-menu,.btn,.subtitle,.counter-title .testimonial-author .vntd-carousel-title {
+	font-family: &#039;Source Sans Pro&#039;, sans-serif;}
+.page-title-inner  {display:none;}
+.anchor {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
+}
+.portfolio-love-button {display:none;}
+.portfolio-outer-cats {display:none;}
+.portfolio-overlay-icons {display:none;}
+.post-media-container img {display:block;
+		margin:auto;
+	}
+.vc_btn3 .vc_btn3-size5-lg {font-size:14px;padding:18px 25px; font-weight:bold;}
+.single_item.mp-image img  {max-width: 500px;  fit: fill;}
+#footer-widgets  {display:none;}
+.ppt {display:none !important}
+.blog-post-content-wrap a {text-decoration:underline !important}
+.blog-post-content-wrap {font-size:1.1em}
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px)  {
+#navigation-mobile{width:35%;float:right; font-size:17px;}
+}
+@media screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-width: 767px) and (orientation: landscape),screen and (max-device-width: 767px) and (orientation: landscape) {
+#site-navigation.style-transparent{ background:none;}
+#navigation-mobile{width:30% !important;float:right;  font-size:17px;} 
+}
+@media only screen and (max-width: 767px) {
+#site-navigation.style-transparent #navigation, #site-navigation.style-boxed #navigation{background:#FFF;}
+#site-navigation.style-transparent{ background:none;}
+#navigation-mobile{width:40%;float:right; font-size:17px;}  
+}

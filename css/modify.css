@@ -1,0 +1,292 @@
+.no-padding{
+	padding: 0px!important;
+}
+.no-margin{
+	margin: 0px!important;
+}
+
+
+.sm-padding{
+	padding-top: 50px;
+}
+
+.hgt-div{
+	height: 100vh;
+}
+
+/*balance*/
+.balance-img{
+	background: url(../images/4.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+.balance1-img{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+.balance{
+text-align: center;
+margin-top: 5%;
+}
+.text-justify{
+	text-align: justify;
+
+}
+
+.balance-global{
+	text-align: center;
+margin-top: 8%;
+}
+.Lets-go{
+	text-align: justify;
+	margin-top: 10%;
+}
+
+
+/*menu*/
+.menu-img{
+	background: url(../images/5.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+.menu-table{
+	margin-top: 15%;
+	border:none!important;
+	cursor: pointer;
+}
+.table-border{
+	border:none!important;
+}
+
+
+/*fomo*/
+
+.fomo-img{
+	background: url(../images/2.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+.chart-img{
+	margin-top: 10%;
+	margin-left: 25%;
+}
+/*hiring*/
+.hiring-img{
+	background: url(../images/6-1.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+/*outreach*/
+.outreach-img{
+	background: url(../images/7.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+
+/*chart bar*/
+.progress-bar {
+  width: 0;
+  animation: progress 1.5s ease-in-out forwards;
+  
+  .title {
+    opacity: 0;
+    animation: show 0.35s forwards ease-in-out 0.5s;
+  }
+} 
+
+@keyframes progress-bar {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+} 
+@keyframes show  {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+
+/*candidate*/
+.candidate-img{
+	background: url(../images/8.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+.chart-img1{
+	margin-left: 15%;
+}
+.progress{
+	margin-bottom: 0px!important;
+    margin-top: 24px!important;
+}
+/*info*/
+/*outreach*/
+.info-img{
+	background: url(../images/9.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+/*drive*/
+
+.drive-img{
+	background: url(../images/10.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+
+/*social*/
+.social-img{
+	background: url(../images/11.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+/*process*/
+.process-img{
+	background: url(../images/12.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+/*role*/
+
+.role-img{
+	background: url(../images/13.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+
+/*bases*/
+.bases-img{
+	background: url(../images/14.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+
+
+/*culture*/
+.culture-img{
+	background: url(../images/15.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+
+
+
+/*leader*/
+.leader-img{
+	background: url(../images/16.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+/*cost*/
+.cost-img{
+	background: url(../images/17.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+
+/*switch*/
+
+.switch-img{
+	background: url(../images/18.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+
+/*growth*/
+.growth-img{
+	background: url(../images/19.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+
+/*survey*/
+.survey-img{
+	background: url(../images/21.png);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*footer*/
+
+.foot-color{
+	background-color: black;
+}
+.copy-right{
+	float: right!important;
+	color: white;
+}
